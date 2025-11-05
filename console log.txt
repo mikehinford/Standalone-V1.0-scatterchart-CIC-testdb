@@ -1,0 +1,183 @@
+supabase.js:341 supabaseModule for scatter chart initialized successfully
+chart-renderer.js?v=1:553 Revalidating customLegend before append: <div id=​"customLegend" style=​"margin-bottom:​ 10px;​ flex-wrap:​ wrap;​ gap:​ 10px;​ border:​ 2px dashed red;​ z-index:​ 20;​">​…​</div>​flex
+chart-renderer.js?v=1:554 Revalidating subtitleDiv before append: <div style=​"margin-top:​ 10px;​ background-color:​ rgba(0, 0, 0, 0.5)​;​ color:​ white;​ padding:​ 5px 10px;​ border-radius:​ 15px;​ font-size:​ 14px;​ text-align:​ center;​ position:​ absolute;​ top:​ 10px;​ left:​ 50%;​ transform:​ translateX(-50%)​;​ border:​ 2px dashed blue;​">​Comparison Statement​</div>​
+chart-renderer.js?v=1:559 Subtitle successfully appended to customLegend.
+chart-renderer.js?v=1:565 Repaint triggered for customLegend.
+chart-renderer.js?v=1:424 Subtitle div: <div style=​"margin-top:​ 10px;​ background-color:​ rgba(0, 0, 0, 0.5)​;​ color:​ white;​ padding:​ 5px 10px;​ border-radius:​ 15px;​ font-size:​ 14px;​ text-align:​ center;​ position:​ absolute;​ top:​ 10px;​ left:​ 50%;​ transform:​ translateX(-50%)​;​ border:​ 2px dashed blue;​">​…​</div>​
+chart-renderer.js?v=1:428 Subtitle appended to customLegend
+chart-renderer.js?v=1:436 customLegend computed styles: CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-animation', 83: 'caret-color', 84: 'clear', 85: 'clip', 86: 'clip-path', 87: 'clip-rule', 88: 'color', 89: 'color-interpolation', 90: 'color-interpolation-filters', 91: 'color-rendering', 92: 'column-count', 93: 'column-gap', 94: 'column-rule-color', 95: 'column-rule-style', 96: 'column-rule-width', 97: 'column-span', 98: 'column-width', 99: 'contain-intrinsic-block-size', …}
+chart-renderer.js?v=1:437 customLegend layout: DOMRect {x: 41, y: 228.796875, width: 846, height: 58.5, top: 228.796875, …}
+chart-renderer.js?v=1:445 Subtitle left: auto
+chart-renderer.js?v=1:446 Subtitle width: 775.375px
+chart-renderer.js?v=1:458 customLegend overflow: visible
+chart-renderer.js?v=1:459 customLegend z-index: auto
+chart-renderer.js?v=1:463 Parent element overflow: hidden
+chart-renderer.js?v=1:464 Parent element z-index: auto
+chart-renderer.js?v=1:500 Parent element dimensions: DOMRect {x: 30, y: 187.796875, width: 868, height: 86, top: 187.796875, …}
+chart-renderer.js?v=1:501 Parent element visibility: visible
+chart-renderer.js?v=1:502 Parent element display: flex
+chart-renderer.js?v=1:503 Parent element z-index: 10
+chart-renderer.js?v=1:506 Subtitle visibility: visible
+chart-renderer.js?v=1:507 Subtitle display: flex
+chart-renderer.js?v=1:508 Subtitle z-index: 20
+chart-renderer.js?v=1:512 customLegend children: HTMLCollection(2) [div, div]
+chart-renderer.js?v=1:513 Subtitle element type: true
+chart-renderer.js?v=1:514 Subtitle element: <div style=​"margin-top:​ 10px;​ background-color:​ rgba(0, 0, 0, 0.5)​;​ color:​ white;​ padding:​ 5px 10px;​ border-radius:​ 15px;​ font-size:​ 14px;​ text-align:​ center;​ position:​ absolute;​ top:​ 10px;​ left:​ 50%;​ transform:​ translateX(-50%)​;​ border:​ 2px dashed blue;​">​…​</div>​
+chart-renderer.js?v=1:518 Subtitle successfully appended to customLegend.
+chart-renderer.js?v=1:526 customLegend visibility before append: visible
+chart-renderer.js?v=1:527 customLegend display before append: flex
+chart-renderer.js?v=1:533 Subtitle successfully appended to customLegend.
+chart-renderer.js?v=1:539 Repaint triggered for customLegend.
+main.js?v=1:6 main.js loaded
+main.js?v=1:751 Setting up init event listener, document.readyState: loading
+main.js?v=1:753 Document still loading, adding DOMContentLoaded listener
+main.js?v=1:19 init() function called
+main.js?v=1:20 Body classes at start: 
+main.js?v=1:24 Loading class added, body classes now: loading
+supabase.js:52 Loading scatter chart data using shared data loader...
+analytics.js:112 📊 Analytics: page_load {page: 'scatter_chart', timestamp: '2025-11-05T11:51:32.995Z'}
+supabase.js:102 No shared loader available, loading data directly
+supabase.js:298 Fetching scatter chart data directly from Supabase...
+chart-renderer.js?v=1:15 Google Charts loaded successfully
+supabase.js:127 Activity Data pollutant ID: 61
+supabase.js:155 Loaded 68 pollutants, 64 groups, 3338 data rows
+main.js?v=1:49 Created window.allGroups with 64 groups
+main.js?v=1:61 Created allGroupsList with 64 groups: (5) ['All', 'Advanced Stove - All fuels', 'Advanced Stove - All fuels excluding Ready To Burn', 'Advanced Stove - All wood', 'Advanced Stove - Ready To Burn']
+main.js?v=1:410 addGroupSelector: total groups available: 64
+main.js?v=1:411 addGroupSelector: looking for groupName: 
+main.js?v=1:359 getSelectedGroups: found 0 select elements
+main.js?v=1:366 getSelectedGroups returning: []
+main.js?v=1:420 addGroupSelector: options added, total options: 65
+main.js?v=1:359 getSelectedGroups: found 1 select elements
+main.js?v=1:362 Select 0: value="", options=65
+main.js?v=1:366 getSelectedGroups returning: []
+main.js?v=1:191 renderInitialView: params= {pollutantName: 'PM2.5', groupNames: Array(2), year: '2023'}
+main.js?v=1:192 renderInitialView: pollutantSelect has 68 options
+main.js?v=1:199 Set pollutant from URL to PM2.5 ID: 5
+main.js?v=1:410 addGroupSelector: total groups available: 64
+main.js?v=1:411 addGroupSelector: looking for groupName: Ecodesign Stove - Ready To Burn
+main.js?v=1:359 getSelectedGroups: found 0 select elements
+main.js?v=1:366 getSelectedGroups returning: []
+main.js?v=1:420 addGroupSelector: options added, total options: 64
+main.js?v=1:423 addGroupSelector: setting value to: Ecodesign Stove - Ready To Burn
+main.js?v=1:425 addGroupSelector: value after setting: Ecodesign Stove - Ready To Burn
+main.js?v=1:429 addGroupSelector: option exists for groupName: true
+main.js?v=1:359 getSelectedGroups: found 1 select elements
+main.js?v=1:362 Select 0: value="Ecodesign Stove - Ready To Burn", options=64
+main.js?v=1:366 getSelectedGroups returning: ['Ecodesign Stove - Ready To Burn']
+main.js?v=1:410 addGroupSelector: total groups available: 64
+main.js?v=1:411 addGroupSelector: looking for groupName: Gas Boilers
+main.js?v=1:359 getSelectedGroups: found 1 select elements
+main.js?v=1:362 Select 0: value="Ecodesign Stove - Ready To Burn", options=65
+main.js?v=1:366 getSelectedGroups returning: ['Ecodesign Stove - Ready To Burn']
+main.js?v=1:420 addGroupSelector: options added, total options: 63
+main.js?v=1:423 addGroupSelector: setting value to: Gas Boilers
+main.js?v=1:425 addGroupSelector: value after setting: Gas Boilers
+main.js?v=1:429 addGroupSelector: option exists for groupName: true
+main.js?v=1:359 getSelectedGroups: found 2 select elements
+main.js?v=1:362 Select 0: value="Ecodesign Stove - Ready To Burn", options=65
+main.js?v=1:362 Select 1: value="Gas Boilers", options=63
+main.js?v=1:366 getSelectedGroups returning: (2) ['Ecodesign Stove - Ready To Burn', 'Gas Boilers']
+main.js?v=1:269 Initial selectedYear: 2023
+main.js?v=1:359 getSelectedGroups: found 2 select elements
+main.js?v=1:362 Select 0: value="Ecodesign Stove - Ready To Burn", options=64
+main.js?v=1:362 Select 1: value="Gas Boilers", options=64
+main.js?v=1:366 getSelectedGroups returning: (2) ['Ecodesign Stove - Ready To Burn', 'Gas Boilers']
+main.js?v=1:131 revealMainContent() called
+main.js?v=1:136 mainContent element: <div id=​"mainContent" style=​"display:​ block;​">​…​</div>​
+main.js?v=1:146 Hiding loading overlay...
+main.js?v=1:151 Making mainContent visible...
+main.js?v=1:156 Drawing chart...
+main.js?v=1:359 getSelectedGroups: found 2 select elements
+main.js?v=1:362 Select 0: value="Ecodesign Stove - Ready To Burn", options=64
+main.js?v=1:362 Select 1: value="Gas Boilers", options=64
+main.js?v=1:366 getSelectedGroups returning: (2) ['Ecodesign Stove - Ready To Burn', 'Gas Boilers']
+main.js?v=1:157 Pre-draw sanity: {selectedYear: 2023, selectedPollutantId: 5, groups: Array(2)}
+main.js?v=1:627 drawChart() called
+main.js?v=1:359 getSelectedGroups: found 2 select elements
+main.js?v=1:362 Select 0: value="Ecodesign Stove - Ready To Burn", options=64
+main.js?v=1:362 Select 1: value="Gas Boilers", options=64
+main.js?v=1:366 getSelectedGroups returning: (2) ['Ecodesign Stove - Ready To Burn', 'Gas Boilers']
+main.js?v=1:644 Selected group names: (2) ['Ecodesign Stove - Ready To Burn', 'Gas Boilers']
+main.js?v=1:654 All groups available: 64
+main.js?v=1:658 Looking for group "Ecodesign Stove - Ready To Burn": found
+main.js?v=1:658 Looking for group "Gas Boilers": found
+main.js?v=1:662 Selected group IDs: (2) [20, 37]
+main.js?v=1:673 Calling ChartRenderer.drawScatterChart with: {year: 2023, pollutantId: 5, groupIds: Array(2)}
+chart-renderer.js?v=1:37 Chart renderer: got 2 data points
+chart-renderer.js?v=1:38 First data point: {groupId: 20, groupName: 'Ecodesign Stove - Ready To Burn', activityData: 6331.21462135507, pollutantValue: 0.674474743880626}
+chart-renderer.js?v=1:54 Adding 2 rows to chart data
+supabase.js:254 Getting unit for pollutant ID: 5
+supabase.js:256 Found pollutant: {id: 5, pollutant: 'PM2.5', emission_unit: 'kilotonne'}
+supabase.js:258 Returning unit: kilotonne
+supabase.js:254 Getting unit for pollutant ID: 5
+supabase.js:256 Found pollutant: {id: 5, pollutant: 'PM2.5', emission_unit: 'kilotonne'}
+supabase.js:258 Returning unit: kilotonne
+chart-renderer.js?v=1:69 Chart data rows added, now drawing chart...
+supabase.js:254 Getting unit for pollutant ID: 5
+supabase.js:256 Found pollutant: {id: 5, pollutant: 'PM2.5', emission_unit: 'kilotonne'}
+supabase.js:258 Returning unit: kilotonne
+supabase.js:254 Getting unit for pollutant ID: 61
+supabase.js:256 Found pollutant: {id: 61, pollutant: 'Activity Data', emission_unit: 'TJ (net)'}
+supabase.js:258 Returning unit: TJ (net)
+chart-renderer.js?v=1:76 Chart renderer - Pollutant Name: PM2.5
+chart-renderer.js?v=1:77 Chart renderer - Pollutant Unit: kilotonne
+chart-renderer.js?v=1:78 Chart renderer - Activity Unit: TJ (net)
+chart-renderer.js?v=1:157 Chart background color (inline style): 
+chart-renderer.js?v=1:158 Chart background color (computed style): rgb(243, 229, 245)
+chart-renderer.js?v=1:164 Selected group IDs: (2) [20, 37]
+chart-renderer.js?v=1:165 Data points: (2) [{…}, {…}]
+chart-renderer.js?v=1:168 Final legend series configuration: undefined
+chart-renderer.js?v=1:207 Calling chart.draw() with data rows: 2
+chart-renderer.js?v=1:208 Chart options: {legend: {…}, title: '', titleTextStyle: {…}, chartArea: {…}, height: 757.6, …}
+chart-renderer.js?v=1:187 Google Charts ready event fired!
+chart-renderer.js?v=1:202 Chart is ready, adding default comparison statement.
+chart-renderer.js?v=1:424 Subtitle div: <div style=​"margin-top:​ 10px;​ background-color:​ rgba(0, 0, 0, 0.5)​;​ color:​ white;​ padding:​ 5px 10px;​ border-radius:​ 15px;​ font-size:​ 14px;​ text-align:​ center;​ position:​ absolute;​ top:​ 10px;​ left:​ 50%;​ transform:​ translateX(-50%)​;​ border:​ 2px dashed blue;​">​…​</div>​
+chart-renderer.js?v=1:428 Subtitle appended to customLegend
+chart-renderer.js?v=1:436 customLegend computed styles: CSSStyleDeclaration {0: 'accent-color', 1: 'align-content', 2: 'align-items', 3: 'align-self', 4: 'alignment-baseline', 5: 'anchor-name', 6: 'anchor-scope', 7: 'animation-composition', 8: 'animation-delay', 9: 'animation-direction', 10: 'animation-duration', 11: 'animation-fill-mode', 12: 'animation-iteration-count', 13: 'animation-name', 14: 'animation-play-state', 15: 'animation-range-end', 16: 'animation-range-start', 17: 'animation-timeline', 18: 'animation-timing-function', 19: 'app-region', 20: 'appearance', 21: 'backdrop-filter', 22: 'backface-visibility', 23: 'background-attachment', 24: 'background-blend-mode', 25: 'background-clip', 26: 'background-color', 27: 'background-image', 28: 'background-origin', 29: 'background-position', 30: 'background-repeat', 31: 'background-size', 32: 'baseline-shift', 33: 'baseline-source', 34: 'block-size', 35: 'border-block-end-color', 36: 'border-block-end-style', 37: 'border-block-end-width', 38: 'border-block-start-color', 39: 'border-block-start-style', 40: 'border-block-start-width', 41: 'border-bottom-color', 42: 'border-bottom-left-radius', 43: 'border-bottom-right-radius', 44: 'border-bottom-style', 45: 'border-bottom-width', 46: 'border-collapse', 47: 'border-end-end-radius', 48: 'border-end-start-radius', 49: 'border-image-outset', 50: 'border-image-repeat', 51: 'border-image-slice', 52: 'border-image-source', 53: 'border-image-width', 54: 'border-inline-end-color', 55: 'border-inline-end-style', 56: 'border-inline-end-width', 57: 'border-inline-start-color', 58: 'border-inline-start-style', 59: 'border-inline-start-width', 60: 'border-left-color', 61: 'border-left-style', 62: 'border-left-width', 63: 'border-right-color', 64: 'border-right-style', 65: 'border-right-width', 66: 'border-start-end-radius', 67: 'border-start-start-radius', 68: 'border-top-color', 69: 'border-top-left-radius', 70: 'border-top-right-radius', 71: 'border-top-style', 72: 'border-top-width', 73: 'bottom', 74: 'box-decoration-break', 75: 'box-shadow', 76: 'box-sizing', 77: 'break-after', 78: 'break-before', 79: 'break-inside', 80: 'buffered-rendering', 81: 'caption-side', 82: 'caret-animation', 83: 'caret-color', 84: 'clear', 85: 'clip', 86: 'clip-path', 87: 'clip-rule', 88: 'color', 89: 'color-interpolation', 90: 'color-interpolation-filters', 91: 'color-rendering', 92: 'column-count', 93: 'column-gap', 94: 'column-rule-color', 95: 'column-rule-style', 96: 'column-rule-width', 97: 'column-span', 98: 'column-width', 99: 'contain-intrinsic-block-size', …}
+chart-renderer.js?v=1:437 customLegend layout: DOMRect {x: 41, y: 476.796875, width: 846, height: 60.5, top: 476.796875, …}
+chart-renderer.js?v=1:445 Subtitle left: auto
+chart-renderer.js?v=1:446 Subtitle width: 775.375px
+chart-renderer.js?v=1:458 customLegend overflow: visible
+chart-renderer.js?v=1:459 customLegend z-index: 20
+chart-renderer.js?v=1:463 Parent element overflow: visible
+chart-renderer.js?v=1:464 Parent element z-index: 10
+chart-renderer.js?v=1:500 Parent element dimensions: DOMRect {x: 30, y: 369.296875, width: 868, height: 910.5, top: 369.296875, …}
+chart-renderer.js?v=1:501 Parent element visibility: visible
+chart-renderer.js?v=1:502 Parent element display: flex
+chart-renderer.js?v=1:503 Parent element z-index: 10
+chart-renderer.js?v=1:506 Subtitle visibility: visible
+chart-renderer.js?v=1:507 Subtitle display: flex
+chart-renderer.js?v=1:508 Subtitle z-index: 20
+chart-renderer.js?v=1:512 customLegend children: HTMLCollection(3) [div, div, div]
+chart-renderer.js?v=1:513 Subtitle element type: true
+chart-renderer.js?v=1:514 Subtitle element: <div style=​"margin-top:​ 10px;​ background-color:​ rgba(0, 0, 0, 0.5)​;​ color:​ white;​ padding:​ 5px 10px;​ border-radius:​ 15px;​ font-size:​ 14px;​ text-align:​ center;​ position:​ absolute;​ top:​ 10px;​ left:​ 50%;​ transform:​ translateX(-50%)​;​ border:​ 2px dashed blue;​">​…​</div>​
+chart-renderer.js?v=1:518 Subtitle successfully appended to customLegend.
+chart-renderer.js?v=1:526 customLegend visibility before append: visible
+chart-renderer.js?v=1:527 customLegend display before append: flex
+chart-renderer.js?v=1:533 Subtitle successfully appended to customLegend.
+chart-renderer.js?v=1:539 Repaint triggered for customLegend.
+chart-renderer.js?v=1:211 chart.draw() completed without error
+chart-renderer.js?v=1:318 Blank line added under the legend
+chart-renderer.js?v=1:216 Error calling chart.draw(): TypeError: Failed to execute 'appendChild' on 'Node': parameter 1 is not of type 'Node'.
+    at createCustomLegend (chart-renderer.js?v=1:339:19)
+    at Object.drawScatterChart (chart-renderer.js?v=1:214:5)
+    at drawChart (main.js?v=1:680:24)
+    at main.js?v=1:158:5
+    at new Promise (<anonymous>)
+    at revealMainContent (main.js?v=1:132:10)
+    at HTMLDocument.init (main.js?v=1:73:11)
+drawScatterChart @ chart-renderer.js?v=1:216
+drawChart @ main.js?v=1:680
+(anonymous) @ main.js?v=1:158
+revealMainContent @ main.js?v=1:132
+init @ main.js?v=1:73
+analytics.js:112 📊 Analytics: scatter_chart_drawn {year: 2023, pollutant: 'PM2.5', group_count: 2}
+main.js?v=1:359 getSelectedGroups: found 2 select elements
+main.js?v=1:362 Select 0: value="Ecodesign Stove - Ready To Burn", options=64
+main.js?v=1:362 Select 1: value="Gas Boilers", options=64
+main.js?v=1:366 getSelectedGroups returning: (2) ['Ecodesign Stove - Ready To Burn', 'Gas Boilers']
+main.js?v=1:162 Scatter chart transition starting...
+main.js?v=1:171 Scatter chart fully loaded
+analytics.js:112 📊 Analytics: page_load {app: 'scatter_chart'}
+main.js?v=1:82 Application initialized successfully
