@@ -310,6 +310,16 @@ function ensureComparisonDivExists() {
     comparisonDiv.id = 'comparisonDiv';
     comparisonDiv.className = 'comparison-statement';
 
+    // Apply pill styling
+    comparisonDiv.style.display = 'inline-block';
+    comparisonDiv.style.padding = '10px 20px';
+    comparisonDiv.style.borderRadius = '20px';
+    comparisonDiv.style.backgroundColor = 'orange';
+    comparisonDiv.style.color = 'white';
+    comparisonDiv.style.fontWeight = 'bold';
+    comparisonDiv.style.textAlign = 'center';
+    comparisonDiv.style.marginTop = '10px';
+
     const customLegend = document.getElementById('customLegend');
     if (customLegend) {
       customLegend.appendChild(comparisonDiv);
