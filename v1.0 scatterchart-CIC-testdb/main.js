@@ -5,6 +5,19 @@
 
 console.log('main.js loaded');
 
+// Debounce function
+function debounce(func, wait) {
+  let timeout;
+  return function executedFunction(...args) {
+    const later = () => {
+      clearTimeout(timeout);
+      func(...args);
+    };
+    clearTimeout(timeout);
+    timeout = setTimeout(later, wait);
+  };
+}
+
 // Application state
 let selectedYear = null;
 let selectedPollutantId = null;
@@ -600,13 +613,13 @@ function setupEventListeners() {
   // Year change
   document.getElementById('yearSelect').addEventListener('change', (e) => {
     selectedYear = e.target.value ? parseInt(e.target.value) : null;
-    updateURL();
+    updateChart();
   });
 
   // Pollutant change
   document.getElementById('pollutantSelect').addEventListener('change', (e) => {
     selectedPollutantId = e.target.value ? parseInt(e.target.value) : null;
-    updateURL();
+    updateChart();
   });
 
   // Share button
@@ -618,6 +631,12 @@ function setupEventListeners() {
   document.getElementById('downloadBtn').addEventListener('click', () => {
     window.ExportShare.downloadChartPNG();
   });
+
+  // Resize handler
+  window.addEventListener('resize', debounce(() => {
+    console.log('Window resized, redrawing chart...');
+    drawChart();
+  }, 250));
 }
 
 /**
@@ -701,6 +720,13 @@ function drawChart() {
   
   // Update URL
   updateURL();
+  
+  // Track chart draw event
+  window.supabaseModule.trackAnalytics('scatter_chart_drawn', {
+    year: selectedYear,
+    pollutant: window.supabaseModule.getPollutantName(selectedPollutantId),
+    group_count: selectedGroupIds.length
+  });
 }
 
 function ensureComparisonDivExists() {
